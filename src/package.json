@@ -1,0 +1,9 @@
+{
+  "name": "release-please-output-parser",
+  "main": "main.js",
+  "dependencies": {
+    "@actions/core": "^1.2.7",
+    "dotenv": "^16.0.3",
+    "dotenv-expand": "^10.0.0"
+  }
+}

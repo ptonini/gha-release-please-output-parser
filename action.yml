@@ -1,0 +1,10 @@
+name: release-please-output-parser
+description: ''
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
+inputs:
+  release_please_outputs:
+    description: ''
+    required: true
+
